@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Nata Meva](https://htmlacademy.ru/profile/id40946).
-* Наставник: `Неизвестно`.
+* Наставник: [Vladislav Balabanovich](https://htmlacademy.ru/profile/id6394).
 
 ---
 
